@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["kiortir <kiortir@yandex.ru>"]
 readme = "README.md"
-packages = [{include = "src/unirock_image_compress"}]
+packages = [{ include = "compress", from = "src" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
