@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "compress"
+name = "unirock-compress"
 version = "0.1.0"
 description = ""
 authors = ["kiortir <kiortir@yandex.ru>"]
